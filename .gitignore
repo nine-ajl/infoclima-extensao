@@ -1,0 +1,9 @@
+# Ambiente virtual
+venv/
+__pycache__/
+
+# Variáveis locais de ambiente (Segurança)
+.env
+
+# Arquivo de imagem gerado temporariamente
+mapa_queimadas.png
